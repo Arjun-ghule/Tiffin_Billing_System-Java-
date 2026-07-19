@@ -1,0 +1,25 @@
+# Maven build outputs
+target/
+
+# Local database file
+tiffin_billing.db
+
+# Generated invoices and reports
+bills/
+
+# Portable local Maven installation
+.maven/
+
+# IDE files
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.factorypath
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
